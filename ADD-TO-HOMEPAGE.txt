@@ -1,0 +1,15 @@
+ADD THIS TO THE GUIDFROMM FASHION HOMEPAGE
+
+Once you upload tech-fashion.html to the same GitHub Pages repository, add a featured card/link somewhere in the Fashion × Technology section:
+
+<a href="tech-fashion.html" class="feature-link">
+  <span>FASHION × TECHNOLOGY</span>
+  <strong>The outfit is becoming an interface.</strong>
+  <small>Smart textiles, AI, privacy and the strange future of what we wear.</small>
+</a>
+
+The article uses:
+images/tech-circuit.png
+images/tech-light-grid.png
+
+Keep those image files in the same images/ folder when uploading.
